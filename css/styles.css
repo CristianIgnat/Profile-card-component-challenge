@@ -1,0 +1,114 @@
+body {
+  background-color: cyan;
+  background-color: hsl(185, 75%, 39%);
+}
+
+h1 {
+color: gray;
+color: hsl(229, 23%, 23%);
+margin-top: 200px;
+font-size: 18px;
+font-family: 'Kumbh Sans', sans-serif;
+font-weight: 700;
+margin: 250px auto 30px;
+width: 150px;
+text-align: center;
+}
+
+h2 {
+  color: gray;
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 700;
+  margin-bottom: 10px;
+  line-height: 0;
+}
+
+p {
+  font-size: 12px;
+  margin-top: 2px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+}
+
+hr {
+  margin-bottom: 25px;
+}
+
+.image-top {
+  position: absolute;
+  width: 60%;
+  left: -10%;
+  top: -65%;
+}
+
+.image-bottom {
+  position: absolute;
+  width: 60%;
+  right: -15%;
+  bottom: -80%;
+}
+
+.image-card {
+  position: absolute;
+  width: 400px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+
+  }
+
+.attribution {
+  position: absolute;
+  bottom: 5%;
+}
+
+.middle-container {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  position: absolute;
+  top: 20%;
+  left: 42%;
+  background-color: white;
+  width: 400px;
+  height: 420px;
+}
+
+.image-victor {
+  position: absolute;
+  border-radius: 100%;
+  border: 8px solid white;
+  display:inline-block;
+  left: 36%;
+  top: 25%;
+}
+
+.followers{
+  width: 30%;
+  position: absolute;
+  left: 3%;
+  text-align: center;
+
+}
+.likes{
+  width: 30%;
+  position: absolute;
+  right: 35%;
+  text-align: center;
+
+}
+.photos{
+  width: 30%;
+  position: absolute;
+  right: 3%;
+  text-align: center;
+}
+
+.text-gri {
+  color: gray;
+  color: hsl(227, 10%, 46%);
+  font-weight: 400;
+  line-height: 1.5;
+}
